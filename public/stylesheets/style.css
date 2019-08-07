@@ -1,0 +1,9 @@
+#root1 table tr td{
+  border: 1px solid #2e2e2e;
+  text-align: center;
+  color:#6ae29c;
+  width: 50%;
+}
+ td{
+  font-weight: 50%;
+}
